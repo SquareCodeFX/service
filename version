@@ -1,13 +1,8 @@
 [
    {
-      "name":"1.1.2",
-      "release":"1666627585983",
-      "latest":true
-   },
-   {
       "name":"1.1.1",
       "release":"1666627585963",
-      "latest":false
+      "latest":true
    },
    {
       "name":"1.1.0",
