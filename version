@@ -13,15 +13,5 @@
       "name":"1.1.0",
       "release":"1664732789000",
       "latest":false
-   },
-   {
-      "name":"1.0.5",
-      "release":"1663514393000",
-      "latest":false
-   },
-   {
-      "name":"1.0.0",
-      "release":"1662922502000",
-      "latest":false
    }
 ]
