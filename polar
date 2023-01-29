@@ -13,5 +13,10 @@
       "name":"0.0.3",
       "release":"1674939296683",
       "latest":true
+      },
+      {
+      "name":"0.0.4",
+      "release":"1675015593181",
+      "latest":true
       }
 ]
