@@ -12,7 +12,7 @@
       {
       "name":"0.0.3",
       "release":"1674939296683",
-      "latest":true
+      "latest":false
       },
       {
       "name":"0.0.4",
