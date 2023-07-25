@@ -1,7 +1,8 @@
 [
       {
       "name":"0.0.1",
-      "release":"1680351737095",
-      "latest":true
+      "release":"1690281924798",
+      "latest":true,
+      "hash":"xyz"
       }
 ]
