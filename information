@@ -2,7 +2,13 @@
       {
       "name":"0.0.1",
       "release":"1690281924798",
-      "latest":true,
+      "latest":false,
       "hash":"eed21d909a40a9a15b53cde3ec8e2243fcb1de6d96cdebf8f26a2efa44ba812f"
+      },
+      {
+      "name":"0.0.2",
+      "release":"1690302512488",
+      "latest":true,
+      "hash":"ea2671db23cd45c0f72458409569f6d6ae9eb239718372fd27d6c4934efd2309"
       }
 ]
