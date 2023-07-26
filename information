@@ -9,12 +9,6 @@
       "name":"0.0.2",
       "release":"1690302512488",
       "latest":false,
-      "hash":"ea2671db23cd45c0f72458409569f6d6ae9eb239718372fd27d6c4934efd2309"
-      },
-      {
-      "name":"0.0.3",
-      "release":"1690413380370",
-      "latest":true,
-      "hash":"26bb99c2119f8ac72bd0c16870dc32842a19f397e8ee1a933f3dab3f314e0086"
+      "hash":"eaf92edfc2b1a1a08291888b76b57ceb4a13e429a74ca7cab42bd4a10ad204d7"
       }
 ]
