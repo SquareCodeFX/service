@@ -10,5 +10,11 @@
       "release":"1690302512488",
       "latest":false,
       "hash":"eaf92edfc2b1a1a08291888b76b57ceb4a13e429a74ca7cab42bd4a10ad204d7"
+      },
+      {
+      "name":"0.0.3",
+      "release":"1690545619532",
+      "latest":true,
+      "hash":"13a5e5c050b0f8709b3ed446c719cd8ef1f9c50b4447f06839a31ed3626a1ea5"
       }
 ]
